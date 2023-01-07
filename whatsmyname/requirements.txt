@@ -45,7 +45,7 @@ pylev==1.4.0
 pyparsing==3.0.9
 pytest==7.1.2
 pytest-asyncio==0.19.0
-@@ -34,10 +53,15 @@ requests-toolbelt==0.9.1
+requests-toolbelt==0.9.1
 rfc3986==2.0.0
 rich==12.5.1
 SecretStorage==3.3.2
